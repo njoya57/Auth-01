@@ -1,0 +1,7 @@
+com\auth\repo\RoleRepository.class
+com\auth\repo\UserRepository.class
+com\auth\entities\AppRole.class
+com\auth\entities\AppUser.class
+com\auth\service\AuthServiceImpl.class
+com\auth\service\AuthService.class
+com\auth\AuthenAppApplication.class
